@@ -1,4 +1,4 @@
-    import java.util.Comparable;
+    import java.lang.Comparable;
     import java.util.PriorityQueue;
     import java.util.Map;
     import java.util.HashMap;
